@@ -27,3 +27,13 @@ The betflip game is similar to flip, but allows you to place a bet on the outcom
 
 License
 This project is licensed under the MIT License.
+
+HOW TO SET
+
+Clone or download the repository from GitHub.
+Make sure you have Python 3.x installed on your system.
+Install the required dependencies by running pip install -r requirements.txt in your terminal or command prompt.
+Navigate to the root directory of the project and run python create_db.py to create the SQLite database for the bot.
+Once the database is created, run python main.py to start the bot.
+The bot will prompt you to enter a command. Type help to see a list of available commands.
+That's it! You should now be able to use the Simple Gambling bot.
